@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">PracticePro</string>
     <plurals name="has_been_clicked">
-        <item quantity="one">I\'ve been clicked %d time!</item>
-        <item quantity="other">I\'ve been clicked %d times!</item>
+        <item quantity="one">Good job!</item>
+        <item quantity="other">Keep it up!</item>
     </plurals>
-    <string name="button">Button</string>
+    <string name="button">Yes</string>
+    <string name="have_you_practiced_today">Have you practiced today?</string>
+
 </resources>
