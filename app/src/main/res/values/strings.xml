@@ -19,5 +19,26 @@
         This is when we want to be running through our solos and scales. Here we’ve set up a sample practice session.
     </string>
     <string name="add_this_to_my_calender">Add this to my calender</string>
+    <string name="piano_man">Piano</string>
+    <string name="note">note</string>
+
+    <string name="_4_out_of_5_hours">4 out of 5 hours</string>
+    <string name="keep_practicing">Keep Practicing!</string>
+    <string name="make_sure_you_re_cleaning_your_instrument">Make sure you\'re cleaning your instrument!</string>
+    <string name="chloe_423_hrs">Chloe 423 hrs</string>
+    <string name="hadley_350_hrs">Hadley 350 hrs</string>
+    <string name="max_456_hrs">Max 456 hrs</string>
+    <string name="_4">4</string>
+    <string name="days_until_audition">Days until audition!</string>
+    <string name="chloe">chloe</string>
+    <string name="hadley">hadley</string>
+    <string name="calander">calander</string>
+    <string name="max">max</string>
+    <string name="how_to_prepare_for_your_audition2">How to prepare for your audition</string>
+    <string name="audition">How to prepare for your audition</string>
+    <string name="get_started">Get started</string>
+    <string name="background">background</string>
+    <string name="practice">Practice</string>
+    <string name="pro">Pro</string>
 
 </resources>

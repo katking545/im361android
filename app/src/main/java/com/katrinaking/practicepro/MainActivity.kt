@@ -1,5 +1,6 @@
 package com.katrinaking.practicepro
 
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -21,8 +22,13 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val mapFragment = supportFragmentManager.findFragmentById(R.id.my_map_view) as SupportMapFragment
-        mapFragment.getMapAsync(this)
+
+
+        val myButton: Button = findViewById(R.id.button)
+        myButton.setOnClickListener {
+            val intent = Intent(this, DashActivity::class.java)
+            startActivity(intent)
+        }
     }
 
 }
