@@ -21,7 +21,6 @@
     <string name="add_this_to_my_calender">Add this to my calender</string>
     <string name="piano_man">Piano</string>
     <string name="note">note</string>
-
     <string name="_4_out_of_5_hours">4 out of 5 hours</string>
     <string name="keep_practicing">Keep Practicing!</string>
     <string name="make_sure_you_re_cleaning_your_instrument">Make sure you\'re cleaning your instrument!</string>
@@ -40,5 +39,11 @@
     <string name="background">background</string>
     <string name="practice">Practice</string>
     <string name="pro">Pro</string>
+    <string name="name">Name</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="name2">Name</string>
+    <string name="welcome">Welcome,</string>
+    <string name="username">UserName</string>
+
 
 </resources>
