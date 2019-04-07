@@ -45,7 +45,7 @@
     <string name="welcome">Welcome,</string>
     <string name="username">UserName</string>
     <string name="calendaricon">calendaricon</string>
-    <string name="calendar">Calendar</string>
+
     <string name="practicedash">Practice</string>
     <string name="lessons">Lessons</string>
     <string name="tools">Tools</string>
@@ -53,6 +53,12 @@
     <string name="pianoicon">pianoicon</string>
     <string name="metronomeicon">metronomeicon</string>
     <string name="onboardbackground">onboardbackground</string>
+    <string name="tell_us_about_you">Tell us about you</string>
+    <string name="what_instrument_do_you_play">What instrument do you play?</string>
+    <string name="select">Select</string>
+    <string name="trombone">trombone</string>
+    <string name="tromboneciricle">tromboneciricle</string>
+    <string name="calendar">Calendar</string>
 
 
 </resources>

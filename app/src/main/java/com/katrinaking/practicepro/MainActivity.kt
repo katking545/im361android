@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
 
         val myButton: Button = findViewById(R.id.button)
         myButton.setOnClickListener {
-            val intent = Intent(this, DashActivity::class.java)
+            val intent = Intent(this, OnboardingActivity::class.java)
             startActivity(intent)
         }
     }
