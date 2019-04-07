@@ -44,6 +44,15 @@
     <string name="name2">Name</string>
     <string name="welcome">Welcome,</string>
     <string name="username">UserName</string>
+    <string name="calendaricon">calendaricon</string>
+    <string name="calendar">Calendar</string>
+    <string name="practicedash">Practice</string>
+    <string name="lessons">Lessons</string>
+    <string name="tools">Tools</string>
+    <string name="musicnoteicon">musicnoteicon</string>
+    <string name="pianoicon">pianoicon</string>
+    <string name="metronomeicon">metronomeicon</string>
+    <string name="onboardbackground">onboardbackground</string>
 
 
 </resources>
