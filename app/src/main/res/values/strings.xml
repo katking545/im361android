@@ -90,6 +90,16 @@
     </string>
     <string name="finish">Finish</string>
     <string name="practiceplswrk">Practice</string>
+    <string name="line">line</string>
+    <string name="practice_complete">Practice Complete!</string>
+    <string name="scalespractice">Scales</string>
+    <string name="etudies">Etudies</string>
+    <string name="solo">Solo</string>
+    <string name="_15_min">15 min</string>
+    <string name="_30_min">30 min</string>
+    <string name="_1_hour">1 Hour</string>
+    <string name="dashboardpractice">Dashboard</string>
+    <string name="tuner">tuner</string>
 
 
 </resources>

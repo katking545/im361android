@@ -46,7 +46,9 @@
         <activity android:name=".PracticeFinishActivity"
                   android:parentActivityName=".PracticeActivity"
                 />
-
+        <activity android:name=".TunerActivity"
+                  android:parentActivityName=".ToolsActivity"
+                  />
 
 
         <meta-data
