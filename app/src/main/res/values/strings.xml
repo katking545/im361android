@@ -59,6 +59,37 @@
     <string name="trombone">trombone</string>
     <string name="tromboneciricle">tromboneciricle</string>
     <string name="calendar">Calendar</string>
+    <string name="metronome">Metronome</string>
+    <string name="tunerbtn">Tunerbtn</string>
+    <string name="metromepic">metromepic</string>
+    <string name="calendarbtn">calendar</string>
+    <string name="toolsbtn">Tools</string>
+    <string name="lessonsbtns">Lessons</string>
+    <string name="practicebtns">Practice</string>
+    <string name="metronomebtns">metronomebtn</string>
+    <string name="tunerbtns">Tuner</string>
+    <string name="search">search</string>
+    <string name="learn_to_flutter_tounge">Learn to Flutter Tounge</string>
+    <string name="how_your_instrument_works">How Your Instrument Works</string>
+    <string name="high_note_boot_camp">High Note Boot Camp</string>
+    <string name="piano_basics">Piano Basics</string>
+    <string name="theory_intermediate">Theory Intermediate</string>
+    <string name="perfect_positioning">Perfect Positioning</string>
+    <string name="theory_101">Theory 101</string>
+    <string name="bluenote">bluenote</string>
+    <string name="yellownote">yellownote</string>
+    <string name="rednote">rednote</string>
+
+    <string name="practicepractice">practicepractice</string>
+    <string name="timeleft">timeleft</string>
+    <string name="scales">Scales</string>
+    <string name="run_through_the_scales_you_know">Run through the scales you know</string>
+    <string name="try_practicing_some_new_ones">Try practicing some new ones!</string>
+    <string name="make_sure_you_play_with_different_tempos_and_rhythms">Make sure you play with different tempos and
+        rhythms.
+    </string>
+    <string name="finish">Finish</string>
+    <string name="practiceplswrk">Practice</string>
 
 
 </resources>

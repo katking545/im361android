@@ -19,7 +19,7 @@
             android:layout_height="57dp"
             android:id="@+id/button" android:background="@color/colorPrimaryDark"
             app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginTop="532dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="492dp" app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:textColor="@android:color/white"/>
     <TextView

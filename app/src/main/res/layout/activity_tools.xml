@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                                             android:layout_width="match_parent"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
                                              android:layout_height="match_parent">
-
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="395dp"
+            android:layout_height="70dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+            app:layout_constraintHorizontal_bias="0.0" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="8dp" android:id="@+id/linearLayout">
+        <Button
+                android:text="@string/metronome"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp" android:id="@+id/button8" android:layout_weight="1"
+                android:background="@color/colorPrimary" android:fontFamily="@font/open_sans"
+                android:textColor="@android:color/white" android:contentDescription="@string/metronomebtns"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+        <Button
+                android:text="@string/tunerbtns"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp" android:id="@+id/button7" android:layout_weight="1"
+                android:background="@color/colorPrimary" android:textColor="@android:color/white"
+                android:contentDescription="@string/tunerbtn" style="@style/Widget.AppCompat.Button.Borderless"/>
+    </LinearLayout>
+    <ImageView
+            android:layout_width="400dp"
+            android:layout_height="465dp" app:srcCompat="@drawable/group752"
+            android:id="@+id/imageView12"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="16dp"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="1.0"
+            android:contentDescription="@string/metromepic"
+            android:layout_marginTop="100dp" app:layout_constraintTop_toTopOf="parent"/>
 </android.support.constraint.ConstraintLayout>

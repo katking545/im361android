@@ -43,6 +43,9 @@
         <activity android:name=".ToolsActivity"
                   android:parentActivityName=".DashActivity"
                 />
+        <activity android:name=".PracticeFinishActivity"
+                  android:parentActivityName=".PracticeActivity"
+                />
 
 
 
